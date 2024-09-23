@@ -10,7 +10,7 @@ This project is a responsive, shopping cart built with React.js and Redux for st
 
  ## 📋 Additional Features
 - **Product Sorting**: Sort products by price and alphabetically by name (A-Z).
-- **Persistent Cart**: Cart items are persisted in localStorage, so your cart doesn't change after refreshing the page.
+- **Persistent Cart**: Cart items are persisted in localStorage, so your cart doesn't change after refreshing/closing the page.
 
 
 ## 🛠️ Technologies Used
